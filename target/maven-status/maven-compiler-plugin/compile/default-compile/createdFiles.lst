@@ -1,0 +1,10 @@
+com\mycompany\uts_pbo2_rievan_r\n\BarangKeluar.class
+com\mycompany\uts_pbo2_rievan_r\n\OperasiGudang.class
+com\mycompany\uts_pbo2_rievan_r\n\CekStok.class
+com\mycompany\uts_pbo2_rievan_r\n\TambahBarangBaru.class
+com\mycompany\uts_pbo2_rievan_r\n\BarangMasuk.class
+com\mycompany\uts_pbo2_rievan_r\n\UpdateHarga.class
+com\mycompany\uts_pbo2_rievan_r\n\Main.class
+com\mycompany\uts_pbo2_rievan_r\n\GudangManager.class
+com\mycompany\uts_pbo2_rievan_r\n\OperasiGudangFactory.class
+com\mycompany\uts_pbo2_rievan_r\n\Barang.class
